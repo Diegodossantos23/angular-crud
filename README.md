@@ -1,6 +1,6 @@
 # Angular Crud
 
-https://user-images.githubusercontent.com/51524658/157461211-b1ea6522-a487-4050-b47c-a68db6172522.mp4
+https://user-images.githubusercontent.com/51524658/157464920-97d4a202-8ab5-45e2-bf12-cfc91b568d8f.mp4
 
 ## How to clone and run project
 
