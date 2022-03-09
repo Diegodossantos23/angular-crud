@@ -6,8 +6,13 @@ How to run
 
 ```console
 git clone https://github.com/Diegodossantos23/angular-crud.git 
+```
+```console
 cd backend
 npm start
+```
+
+```console
 cd ..
 cd frontend
 npm start
