@@ -8,14 +8,14 @@ https://user-images.githubusercontent.com/51524658/157464920-97d4a202-8ab5-45e2-
  https://angular-crud-three.vercel.app/
 ```
 
-## How to clone and run project
+### How to clone and run project
 
 ### Clonning repo:
 ```console
   git clone https://github.com/Diegodossantos23/angular-crud.git 
 ```
 
-### ChangE directory to "angular-crud":
+### Change directory to "angular-crud":
 ```console
   cd angular-crud
 ```
