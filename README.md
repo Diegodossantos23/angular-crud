@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/51524658/157464920-97d4a202-8ab5-45e2-
 git clone https://github.com/Diegodossantos23/angular-crud.git 
 ```
 
-### Changing directory to "angular-crud":
+### ChangE directory to "angular-crud":
 ```console
 cd angular-crud
 ```
