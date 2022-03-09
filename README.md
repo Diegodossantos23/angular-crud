@@ -1,5 +1,10 @@
 # Angular Crud
 
+## Deploy link:
+console```
+ https://angular-crud-three.vercel.app/
+```
+
 https://user-images.githubusercontent.com/51524658/157464920-97d4a202-8ab5-45e2-bf12-cfc91b568d8f.mp4
 
 ## How to clone and run project
