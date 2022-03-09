@@ -1,7 +1,7 @@
 # Angular Crud
 
 ## Deploy link:
-console```
+```console
  https://angular-crud-three.vercel.app/
 ```
 
