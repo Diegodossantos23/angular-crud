@@ -1,9 +1,12 @@
 <mat-toolbar class="footer">
-    <span>
-       Developed with
-       <i class="material-icons v-middle" appRed>
-        favorite
-       </i>
-       by <strong>Phone<span class="red"> Store</span></strong>
-    </span>
+  <span>
+    Developed with
+    <i class="material-icons v-middle" appRed> favorite </i>
+    {{ "by" }}
+    <span>{{ "<" }}</span>
+    <strong style="color: #673ab7">{{ "Phone" }}</strong>
+    <span>{{ "/" }}</span>
+    <span appRed> Store</span>
+    <span class=">" style="padding-left: 5px">{{ ">" }}</span>
+  </span>
 </mat-toolbar>
