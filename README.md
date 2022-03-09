@@ -6,25 +6,25 @@ https://user-images.githubusercontent.com/51524658/157464920-97d4a202-8ab5-45e2-
 
 ### Clonning repo:
 ```console
-- git clone https://github.com/Diegodossantos23/angular-crud.git 
+  git clone https://github.com/Diegodossantos23/angular-crud.git 
 ```
 
 ### ChangE directory to "angular-crud":
 ```console
-- cd angular-crud
+  cd angular-crud
 ```
 
 ### Running backend:
 ```console
-- cd backend
-- npm start
+  cd backend
+  npm start
 ```
 
 ### Running frontend:
 
 ```console
-- cd frontend
-- npm start
+  cd frontend
+  npm start
 ```
 
 
