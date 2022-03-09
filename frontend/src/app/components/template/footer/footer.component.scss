@@ -1,0 +1,14 @@
+.footer {
+    // footer fixed in bottom
+    height: 65px;
+    position: fixed;
+    bottom: 0;
+
+    display: flex;
+    justify-content: flex-end;
+
+    span {
+        font-size: 0.9rem;
+        font-weight: 300;
+    }
+}
