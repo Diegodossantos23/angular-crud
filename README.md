@@ -4,23 +4,23 @@ https://user-images.githubusercontent.com/51524658/157464920-97d4a202-8ab5-45e2-
 
 ## How to clone and run project
 
-### cloning repo:
+### Hoe to clone repo:
 ```console
 git clone https://github.com/Diegodossantos23/angular-crud.git 
 ```
 
-### change directory to "angular-crud":
+### Change directory to "angular-crud":
 ```console
 cd angular-crud
 ```
 
-### how to run backend:
+### How to run backend:
 ```console
 cd backend
 npm start
 ```
 
-### how to run frontend:
+### How to run frontend:
 
 ```console
 cd frontend
