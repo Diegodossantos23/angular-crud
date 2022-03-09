@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/51524658/157464920-97d4a202-8ab5-45e2-
  https://angular-crud-three.vercel.app/
 ```
 
-### How to clone and run project
+## How to clone and run project
 
 ### Clonning repo:
 ```console
