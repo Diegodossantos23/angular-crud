@@ -3,6 +3,9 @@
 ## Short Video
 https://user-images.githubusercontent.com/51524658/157464920-97d4a202-8ab5-45e2-bf12-cfc91b568d8f.mp4
 
+## About Project
+Projeto desenvolvido para fazer operações de CRUD de produtos no painel de adm de um ecommerce
+
 ## See deploy link:
 ```console
  https://angular-crud-three.vercel.app/
